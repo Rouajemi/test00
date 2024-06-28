@@ -1,0 +1,13 @@
+@media (max-width: 992px) {
+  .ojja {
+    color: red !important;
+  }
+  .salade{
+    color: green;
+  }
+  .chorba{
+    color: yellow;
+
+  }
+}
+
